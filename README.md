@@ -6,10 +6,11 @@ SPIKE Essential and SPIKE Prime kits, discontinued by LEGO in June 2026.
 ## Introduction
 
 As of February, 2026, SPIKE is the most recent line of LEGO Robotics sets, targeted 
-for the education market. SPIKE Essential is for younger children (6+ by LEGO 
-classification), SPIKE Prime is for older children (10+ by LEGO classification). 
-Both sets include one *hub*, a microcontroller brick running MicroPython and various 
-peripherials to be attached to them. Both the hub and the peripherials use 
+to the education market. [SPIKE Essential](#spike-essential) is for younger children 
+(6+ by LEGO classification), [SPIKE Prime](#spike-prime) is for older children 
+(10+ by LEGO classification). Both sets include one *hub*, a microcontroller brick 
+running a [MicroPython](https://github.com/micropython/micropython) firmware and 
+various peripherials to be attached to them. Both the hub and the peripherials use 
 exclusively LEGO Technic couplings through holes and pins in a studless fashion. 
 All the peripherials of both sets are compatible with both hubs. Both sets have an 
 optional "Personal Learning Kit" that can be purchased separately, neither of which 
